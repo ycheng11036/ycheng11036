@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Yao!
+
+🐴 I am actively seeking job opportunities in Software Engineer (Frontend, Backend, Fullstack) and related fields!
+
+🎓 I graduated from Stony Brook University at May 2025 with a 💻Computer Science Degree. 
+
+🌱 I’m currently learning new frontend frameworks and techniques.
+
+🤔 I’m actively building new projects, perhaps with SQL based storage and maybe with AI features.
 
 <!--
 **ycheng11036/ycheng11036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
