@@ -8,6 +8,14 @@
 
 🤔 I’m actively building new projects, perhaps with SQL based storage and maybe with AI features.
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ycheng11036&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Skills
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+
+
+
 <!--
 **ycheng11036/ycheng11036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
