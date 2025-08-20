@@ -12,7 +12,12 @@
 
 ## Skills
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,vue,tailwind)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,github,mysql,mongodb)](https://skillicons.dev)
+
 
 
 
