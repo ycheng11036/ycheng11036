@@ -12,7 +12,6 @@
 <section id="Github_Statistics">
     <h2 align="center">Github Statistics:</h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycheng11036&layout=compact&theme=dark&hide_border=true&exclude_repo=notes" /></a><br />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ycheng11036&show_icons=true&count_prive=true&theme=dark&hide_border=true" /></a><br />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycheng11036&theme=dark&hide_border=true"></a>
 </section>
 
