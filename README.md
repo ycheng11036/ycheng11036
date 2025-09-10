@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning new frontend frameworks and techniques.
 
-🤔 I’m actively building new projects, perhaps with SQL based storage and maybe with AI features.
+🤔 I’m currently building an inventory management system using Next.js, PostgreSQL, TailwindCSS, and learning new React libraries from this project.
 
 <!-- Github Statistics -->
 <section id="Github_Statistics">
